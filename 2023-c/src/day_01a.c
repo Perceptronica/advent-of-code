@@ -22,7 +22,7 @@ int f(const char* c) {
 }
 
 int main(int argc, char* argv[]) {
-  char* input = "../sample_tests/day01.in";
+  char* input = "../sample_tests/day_01.input";
   if (argc > 1) {
     input = argv[1];
   }

@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
+#include <cstdlib>
 
-int main(int argc, char* argv[]) {
-  std::string input = "../sample_tests/day_01.in";
+int main(int argc, char *argv[]) {
+  std::string input = "../sample_tests/day_01.input";
   if (argc > 1) {
     input = argv[1];
   }
